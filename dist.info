@@ -1,0 +1,12 @@
+name = "hyperloglog"
+version = "0.1.0"
+
+desc = "Redis Hyperloglog for Lua"
+author = "Mike Trinkala"
+license = "MPL 2.0"
+url = "https://github.com/mozilla-services/lua_hyperloglog"
+maintainer = "Mike Trinkala"
+
+depends = {
+	"lua >= 5.1"
+}
